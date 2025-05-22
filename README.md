@@ -1,6 +1,8 @@
 # Welcome to my workshop at LOGIN 2025  
 You can repeat everything I am showing you today later at home.  
 
+![QR Code](qrcode_github.com.png)
+
 My name is Olle Pridiuksson  
 
 - Add me on LinkedIn: <https://www.linkedin.com/in/pridiuksson>  
