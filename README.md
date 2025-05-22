@@ -12,7 +12,9 @@ My name is Olle Pridiuksson
 
 ## Tools:
 
-- Gemini Gems: <https://gemini.google.com/gems/view>  
+- Gemini Gems: <https://gemini.google.com/gems/view>
+- - iPhone <https://apps.apple.com/us/app/google-gemini/id6477489729>
+- - Android <https://play.google.com/store/apps/details?id=com.google.android.apps.bard&hl=en>
 - Lovable: <https://lovable.dev>  
 - Bolt: <https://bolt.new>  
 - Stitch: <https://stitch.withgoogle.com>  
